@@ -1,19 +1,19 @@
-# SentineIIDS-Threat-Dashboard
+# SentineIIDS-Threat-Dashboard:
 Real-Time intrusion detection dashboard built using base44. Displays network threats, alerts, and mitigation activity
 
-## Live Application
+## Live Application:
  https://tentacled-sentinel-shield-flow.base44.app
 
- ## Project Overview
+ ## Project Overview:
  SentinellDS is a simulated security Operations Center (SOC) dashboard that monitors network threats in real time.
 
- ##Features
+ ##Features:
   - Real-time threat monitoring
   - Intrusion Detection alerts
   - Threat mitigation tracking
   - Network activity visualization
 
- ## Technology Used
+ ## Technology Used:
  Base44
  GitHUb
  Web Dashboard Interface
