@@ -9,9 +9,9 @@ Real-Time intrusion detection dashboard built using base44. Displays network thr
 
  ##Features
  -Real-time threat monitoring
- -Intrusion Detection alerts
- -Threat mitigation tracking
- -Network activity visualization
+  -Intrusion Detection alerts
+  -Threat mitigation tracking
+  -Network activity visualization
 
  ## Technology Used
  Base44
