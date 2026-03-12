@@ -8,10 +8,10 @@ Real-Time intrusion detection dashboard built using base44. Displays network thr
  SentinellDS is a simulated security Operations Center (SOC) dashboard that monitors network threats in real time.
 
  ##Features
- -Real-time threat monitoring
-  -Intrusion Detection alerts
-  -Threat mitigation tracking
-  -Network activity visualization
+  - Real-time threat monitoring
+  - Intrusion Detection alerts
+  - Threat mitigation tracking
+  - Network activity visualization
 
  ## Technology Used
  Base44
